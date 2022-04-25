@@ -1,0 +1,13 @@
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\bin\Debug\ModernUI_FontAw.exe.config
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\bin\Debug\ModernUI_FontAw.exe
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\bin\Debug\ModernUI_FontAw.pdb
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\bin\Debug\FontAwesome.Sharp.dll
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.csproj.AssemblyReference.cache
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.csproj.SuggestedBindingRedirects.cache
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.Form1.resources
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.Properties.Resources.resources
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.csproj.GenerateResource.cache
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.csproj.CoreCompileInputs.cache
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.csproj.CopyComplete
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.exe
+D:\ModernUI\ModernUI_FontAw\ModernUI_FontAw\obj\Debug\ModernUI_FontAw.pdb
